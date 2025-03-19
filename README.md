@@ -2,7 +2,7 @@
 
 Overview
 
-This project predicts passenger survival on the Titanic using a Logistic Regression model. The dataset undergoes data cleaning, feature engineering, and model evaluation to determine survival probabilities.
+This project named," LogisticRegression" predicts passenger survival on the Titanic using a Logistic Regression model. The dataset undergoes data cleaning, feature engineering, and model evaluation to determine survival probabilities.
 
 Technologies Used
 
